@@ -1,70 +1,16 @@
-/* nav bar  */
-
-.container-fluid{
-    padding: 0;
-}
-
-.navbar{
-    padding: 0.625rem 1.25rem 0 1.25rem ;
-    background-color: darkorange;
-    text-align: center;
-}
-
-.icon{
-    padding-left: 1rem ;
-    padding-top: 0.625rem ;
-}
-
-
-/*home*/
-
-#home{
-    background-color: darkorange;
-    text-align: center;
-}
-
-.nav-link{
+.nav-link {
     font-size: 1.3rem;
 }
 
-.social-handles-class{
-    text-align: center;
-    padding-right: 32%;
-    padding-left: 32%;
-    padding-bottom: 7%;
-    margin-right: 0px;
-    margin-left: 0px;
-}   
-
-.sir-photo{
-    border-radius: 100%;
-    margin-top: 0%;
-
-    margin-bottom: 2%;
-    width: 13rem;
-
+.bhaiya-photo {
+    width: 15rem;
 }
 
-.sir-name{
-    color: white;
+.bhaiya-name {
     font-family: "Kaushan Script", cursive;
-    padding-bottom: 2rem;
-    
-    font-size: 300%;
     transform: rotate(-7deg);
 }
 
-.sir-talent{
-    color: white;
-    font-size: 1.5rem;
+.bhaiya-talent {
     font-family: 'Space Mono', monospace;
-    font-weight: 300;
-    padding-bottom: 0.8rem;
 }
-
-.activeness{
-    color: white;
-    font-size: 1.2rem;
-    padding-bottom: 1%;
-}
-
