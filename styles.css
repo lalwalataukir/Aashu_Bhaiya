@@ -34,3 +34,25 @@
 .name{
     margin-bottom: 50px;
 }
+    .class11{
+        text-align: center;
+        padding-top: 50px;
+    }
+    .class2{
+       font-family: monospace;
+        text-align:center;
+    
+        
+        padding-top:60px ;
+        padding-right: 100px;
+        padding-bottom: 55px;
+    }
+    .class3{
+        padding-top: 30px;
+        font-weight: lighter;
+        font-size: 20px;
+        font-family: sans-serif;
+        text-decoration-color: lightcoral;
+        text-align: center;
+        padding-bottom:10px ;
+    }
