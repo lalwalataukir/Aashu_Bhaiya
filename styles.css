@@ -90,18 +90,12 @@
 }
 
 /* contact */
-
-/* footer */
-
-#footer {
-  padding-bottom: 2rem;
-}
-
-.copyright {
+#contact {
   text-align: center;
-  color: grey;
+
   padding-top: 3rem;
 }
+
 .contact-btn {
   text-decoration: none;
   color: white;
@@ -110,4 +104,16 @@
 }
 .contact-btn:hover {
   color: white;
+}
+/* footer */
+
+#footer {
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+}
+
+.copyright {
+  text-align: center;
+  color: grey;
+  padding-top: 3rem;
 }
