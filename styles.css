@@ -90,13 +90,18 @@
 }
 
 /* contact */
-#contact {
-  text-align: center;
-  margin-left: 42%;
-  margin-right: 42%;
-  padding-top: 3rem;
+
+/* footer */
+
+#footer {
+  padding-bottom: 2rem;
 }
 
+.copyright {
+  text-align: center;
+  color: grey;
+  padding-top: 3rem;
+}
 .contact-btn {
   text-decoration: none;
   color: white;
@@ -105,16 +110,4 @@
 }
 .contact-btn:hover {
   color: white;
-}
-/* footer */
-
-#footer {
-  padding-top: 4rem;
-  padding-bottom: 2rem;
-}
-
-.copyright {
-  text-align: center;
-  color: grey;
-  padding-top: 3rem;
 }
