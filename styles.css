@@ -117,3 +117,11 @@
   color: grey;
   padding-top: 3rem;
 }
+
+
+/*MediaQuery*/
+@media (max-width:640px){
+  .name{
+   margin-bottom:25px;
+  }
+}
