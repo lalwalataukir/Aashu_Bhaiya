@@ -3,7 +3,7 @@
 }
 
 .bhaiya-photo {
-  width: 15rem;
+  width: 14rem;
 }
 
 .bhaiya-name {
@@ -35,69 +35,52 @@
 }
 
 /* about  */
+#about {
+  text-align: center;
+  padding-top: 2rem;
+}
+/* about */
 
-.class11 {
-  text-align: center;
-  padding-top: 50px;
-  font-weight: bold;
-  font-size: 1.5rem;
-  font-family: "Encode Sans SC", sans-serif;
-  margin: 0 10% 0 10%;
-}
-.class2 {
-  padding-top: 60px 20px;
-  text-align: center;
-  margin: 0 10% 0 10%;
-}
-.class3 {
-  text-align: center;
-  background-color: #58e6f0;
-  line-height: 2;
-  margin: 0 10% 0 10%;
-  padding-top: 1rem;
-}
-
-.about-head {
-  font-size: 2.5rem;
-  text-align: center;
-  margin: 20px auto;
-  width: 50%;
-  font-family: "Encode Sans SC", sans-serif;
-}
-
-.about-head-line {
-  border-width: 5px;
-  border-top-width: 0;
-  color: rgb(240, 124, 16);
-  width: 40%;
-  margin: auto;
-}
-
-.about-data {
-  text-align: center;
-  padding: 0 20px;
-  line-height: 1.5;
-  background-color: #58e6f0;
-  margin: 0 10% 0 10%;
-}
-
-.motivation {
-  text-align: center;
+.about-h1 {
+  text-align: left;
+  font-family: "Atkinson Hyperlegible", sans-serif;
+  font-weight: 400;
+  padding-left: 5rem;
   font-size: 2rem;
-  position: relative;
-  top: 30px;
-  font-family: "Encode Sans SC", sans-serif;
+}
+.about-description {
+  text-align: left;
+  font-family: "Atkinson Hyperlegible", sans-serif;
+  font-size: 1.5rem;
+  padding-top: 1rem;
+  padding-right: 5rem;
+  padding-left: 5rem;
+  color: grey;
+}
+.teach {
+  text-align: left;
+  font-family: "Atkinson Hyperlegible", sans-serif;
+  font-weight: 400;
+  padding-left: 5rem;
+  font-size: 2rem;
+}
+.teach-description {
+  text-align: left;
+  font-size: 1.5rem;
+  font-family: "Atkinson Hyperlegible", sans-serif;
+  padding-top: 1rem;
+  padding-right: 5rem;
+  padding-left: 5rem;
+  color: grey;
 }
 
-/* contact */
 #contact {
   text-align: center;
-
-  padding-top: 3rem;
+  margin-top: 3rem;
 }
-
 .contact-btn {
   text-decoration: none;
+
   color: white;
   font-size: 1.5rem;
   font-weight: 700;
@@ -118,10 +101,9 @@
   padding-top: 3rem;
 }
 
-
 /*MediaQuery*/
-@media (max-width:640px){
-  .name{
-   margin-bottom:18px;
+@media (max-width: 640px) {
+  .name {
+    margin-bottom: 18px;
   }
 }
