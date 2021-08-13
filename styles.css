@@ -37,7 +37,6 @@
 /* about  */
 #about {
   text-align: center;
-  padding-top: 2rem;
 }
 /* about */
 
@@ -45,33 +44,45 @@
   text-align: left;
   font-family: "Atkinson Hyperlegible", sans-serif;
   font-weight: 400;
-  padding-left: 5rem;
+
   font-size: 2rem;
 }
 .about-description {
   text-align: left;
   font-family: "Atkinson Hyperlegible", sans-serif;
   font-size: 1.5rem;
-  padding-top: 1rem;
-  padding-right: 5rem;
-  padding-left: 5rem;
+
   color: grey;
 }
 .teach {
   text-align: left;
   font-family: "Atkinson Hyperlegible", sans-serif;
   font-weight: 400;
-  padding-left: 5rem;
+
   font-size: 2rem;
 }
 .teach-description {
   text-align: left;
   font-size: 1.5rem;
   font-family: "Atkinson Hyperlegible", sans-serif;
-  padding-top: 1rem;
-  padding-right: 5rem;
-  padding-left: 5rem;
+
   color: grey;
+}
+
+/* #youtube{
+
+} */
+
+.yt-card-description {
+  font-family: "Atkinson Hyperlegible", sans-serif;
+}
+
+.display-6 {
+  font-weight: 400;
+  text-align: left !important;
+}
+.display-5 {
+  font-weight: 350;
 }
 
 #contact {
